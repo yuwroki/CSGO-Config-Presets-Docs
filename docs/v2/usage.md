@@ -16,8 +16,8 @@ order: 5
 备份个人CFG文件夹的所有文件到另一位置
 
 - `config.cfg` 和 `video.txt` 分别对应**游戏设置**和**画面设置**
-- 个人设置文件夹 `Steam\userdata\Steam数字ID\730\local\cfg\`
-- 游戏设置文件夹 `Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\`
+- 个人设置文件夹 `...\Steam\userdata\Steam数字ID\730\local\cfg\`
+- 游戏设置文件夹 `...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
 
 ::: warning
 CS2个人设置文件夹无法在控制台执行
